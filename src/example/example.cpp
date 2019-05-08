@@ -1,4 +1,4 @@
-// Copyright 2019 Emanuele Palazzolo (emanuele.palazzolo@uni-bonn.de)
+// Copyright 2019 Emanuele Palazzolo (emanuele.palazzolo@uni-bonn.de), Cyrill Stachniss, University of Bonn
 #include <Eigen/Core>
 #include <Eigen/Geometry>
 #include <fstream>

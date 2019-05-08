@@ -1,4 +1,4 @@
-// Copyright 2019 Emanuele Palazzolo (emanuele.palazzolo@uni-bonn.de)
+// Copyright 2019 Emanuele Palazzolo (emanuele.palazzolo@uni-bonn.de), Cyrill Stachniss, University of Bonn
 #include "example/fr_parser.h"
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>

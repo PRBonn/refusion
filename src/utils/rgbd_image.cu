@@ -1,4 +1,4 @@
-// Copyright 2018 Emanuele Palazzolo (emanuele.palazzolo@uni-bonn.de)
+// Copyright 2018 Emanuele Palazzolo (emanuele.palazzolo@uni-bonn.de), Cyrill Stachniss, University of Bonn
 #include "rgbd_image.h"
 
 namespace refusion {

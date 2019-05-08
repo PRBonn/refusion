@@ -1,5 +1,5 @@
 ReFusion
-Copyright (c) 2019 by Emanuele Palazzolo
+Copyright (c) 2019 by Emanuele Palazzolo, Cyrill Stachniss, University of Bonn
 
 ReFusion is licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.

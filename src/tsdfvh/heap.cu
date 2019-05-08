@@ -1,4 +1,4 @@
-// Copyright 2019 Emanuele Palazzolo (emanuele.palazzolo@uni-bonn.de)
+// Copyright 2019 Emanuele Palazzolo (emanuele.palazzolo@uni-bonn.de), Cyrill Stachniss, University of Bonn
 #include "tsdfvh/heap.h"
 
 namespace refusion {

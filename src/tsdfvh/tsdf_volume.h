@@ -1,4 +1,4 @@
-// Copyright 2019 Emanuele Palazzolo (emanuele.palazzolo@uni-bonn.de)
+// Copyright 2019 Emanuele Palazzolo (emanuele.palazzolo@uni-bonn.de), Cyrill Stachniss, University of Bonn
 #pragma once
 #include "tsdfvh/hash_table.h"
 #include "utils/rgbd_image.h"
