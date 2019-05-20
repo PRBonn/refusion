@@ -132,4 +132,4 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 ## Acknowledgments
 
-This work has partly been supported by the DFG under the grant number FOR~1505: Mapping on Demand, under the grant number BE 5996/1-1, and under German's Excellence Strategy EXC~2070-390732324: PhenoRob.
+This work has partly been supported by the DFG under the grant number FOR 1505: Mapping on Demand, under the grant number BE 5996/1-1, and under German's Excellence Strategy EXC 2070-390732324: PhenoRob.
